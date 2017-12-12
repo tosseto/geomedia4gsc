@@ -30,7 +30,7 @@
 <img width="978" alt="2017-12-12 9 09 02" src="https://user-images.githubusercontent.com/416977/33860761-a86cd638-df1d-11e7-9d44-285d5d5bdcca.png">
 <img width="977" alt="2017-12-12 9 08 36" src="https://user-images.githubusercontent.com/416977/33860762-a8a49e9c-df1d-11e7-803d-2ce3cca91e80.png">
 
-### [山崎直子さん（宇宙飛行士） 2017/12/08](https://github.com/gsc-aoyama/nanosatellite4gsc/tree/master/Guest_NaokoYAMAZAKI)
+### [山崎直子さん（宇宙飛行士） 2017/12/08 授業外講座 ](https://github.com/gsc-aoyama/nanosatellite4gsc/tree/master/Guest_NaokoYAMAZAKI)
 <img width="1413" alt="2017-12-12 9 33 31" src="https://user-images.githubusercontent.com/416977/33861144-98410c00-df1f-11e7-8492-05482edc100e.png">
 <img width="1417" alt="2017-12-12 9 33 18" src="https://user-images.githubusercontent.com/416977/33861145-986c9a46-df1f-11e7-9739-b6e7847ccad8.png">
 <img width="1417" alt="2017-12-12 9 33 08" src="https://user-images.githubusercontent.com/416977/33861146-9891528c-df1f-11e7-806e-d1cc1cb45aa0.png">
