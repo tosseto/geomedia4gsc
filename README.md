@@ -44,6 +44,11 @@
 <img width="977" alt="2017-12-12 9 37 54" src="https://user-images.githubusercontent.com/416977/33861348-c93348f4-df20-11e7-9332-f33d30168346.png">
 <img width="977" alt="2017-12-12 9 37 07" src="https://user-images.githubusercontent.com/416977/33861350-c96401e2-df20-11e7-826e-5934535f23de.png">
 
+### [藤本浩平さん（アストロスケール） 2017/12/15](https://github.com/gsc-aoyama/nanosatellite4gsc/blob/master/Guest_KoheiFUJIMOTO/spacetech4gsc2017KoheiFUJIMOTO.pdf)
+![2017-12-20 20 13 20](https://user-images.githubusercontent.com/416977/34204583-825c1912-e5c2-11e7-827d-201140e5f869.jpg)
+![2017-12-20 20 13 28](https://user-images.githubusercontent.com/416977/34204582-8239815e-e5c2-11e7-9b7c-f2f2f74dc317.jpg)
+![2017-12-20 20 13 38](https://user-images.githubusercontent.com/416977/34204581-8216031e-e5c2-11e7-91c3-ef0c407c18e0.jpg)
+
 ### [出口知恵さん(国土地理院)](https://github.com/gsc-aoyama/geomedia4gsc/blob/master/chiedeguchi/geomedia4gsc2017ChieDEGUCHI.pdf)
 ![2017-12-20 19 54 14](https://user-images.githubusercontent.com/416977/34203896-03302d74-e5c0-11e7-93b9-5551466c371e.jpg)
 ![2017-12-20 19 54 29](https://user-images.githubusercontent.com/416977/34203897-035430f2-e5c0-11e7-96f8-54dc97a07fa4.jpg)
