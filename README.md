@@ -43,4 +43,9 @@
 <img width="977" alt="2017-12-12 9 37 54" src="https://user-images.githubusercontent.com/416977/33861348-c93348f4-df20-11e7-9332-f33d30168346.png">
 <img width="977" alt="2017-12-12 9 37 07" src="https://user-images.githubusercontent.com/416977/33861350-c96401e2-df20-11e7-826e-5934535f23de.png">
 
+### [出口知恵さん(国土地理院)](https://github.com/gsc-aoyama/geomedia4gsc/blob/master/chiedeguchi/geomedia4gsc2017ChieDEGUCHI.pdf)
+![2017-12-20 19 54 14](https://user-images.githubusercontent.com/416977/34203896-03302d74-e5c0-11e7-93b9-5551466c371e.jpg)
+![2017-12-20 19 54 29](https://user-images.githubusercontent.com/416977/34203897-035430f2-e5c0-11e7-96f8-54dc97a07fa4.jpg)
+![2017-12-20 19 55 35](https://user-images.githubusercontent.com/416977/34203898-0376dbf2-e5c0-11e7-8546-cf263e1cc2a5.jpg)
+![2017-12-20 19 58 24](https://user-images.githubusercontent.com/416977/34203971-3c580ac2-e5c0-11e7-9e25-0431c7245ec5.jpg)
 
