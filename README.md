@@ -5,7 +5,16 @@
 * 毎回登場するゲストの話をグラフィックレコーディング手法によって整理しまとめる。
 * 最終課題として、ジオメディア全般を俯瞰した模造紙サイズのグラフィックレコーディング＆インフォグラフィックスを完成させる
 
-## 講義スケジュール
+## 講義スケジュール(2018年度）
+* 11/19　ジオメディアとは？ by 関治之先生
+* 11/26　[グラレコ入門](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/azumiwada)＋[まちづくり・空想地図](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/TakayukiImaizumi) by 和田あづみさん＆今和泉隆行さん
+* 12/3　[参加型GIS＆鳥獣対策ボードゲーム](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/OsamuImai) by 今井修さん＆松木崇晃さん 
+* 12/10　[3次元地理空間情報の活用最前線](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/YasushiOnda) by 恩田靖さん（Google）
+* 12/17　[ウェブ時代における空間情報技術](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/KozoKamada) by 鎌田高造さん（国土地理院）
+* 1/7　地図調整Part2 by 近藤賀誉さん＆鈴木一郎さん（東京カートグラフィック株式会社）
+* 1/21 IoT/Makersコミュニティ by 水田さん
+
+## 講義スケジュール(2017年度）
 
 * 11/13　グラレコ入門 by 和田あずみさん 【プレ・古橋研ゼミで実施】
 * 11/20　仙川地図研究所など by 小森葵さん 【はじめての空間情報システム 合同で実施】
@@ -18,7 +27,7 @@
 * 1/15　地図調整 by 猪原紘太さん
 * 1/22　CARTO by Pacific Spatial Solution社
 
-## 提出例
+## 提出例(2017年度）
 
 ### [小森葵さん（仙川地図研究社） 2017/11/20](https://github.com/gsc-aoyama/geomedia4gsc/blob/master/sengawamap/geomedia4gsc2017AoiKOMORI.pdf)
 ![aoikomoribymarikonagano](https://user-images.githubusercontent.com/416977/33066983-24d80352-cef0-11e7-92d2-7561a40104b4.jpg)
